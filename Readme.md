@@ -1,6 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Айрат Нагимов](https://up.htmlacademy.ru/htmlcss/16/user/288721).
+* Наставник: [Сергей Рубец](https://htmlacademy.ru/profile/id41580).
 
 ---
 
